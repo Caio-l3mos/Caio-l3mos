@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Olá! Eu sou o Caio Lemos
 
-<!--
-**Caio-l3mos/Caio-l3mos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Desenvolvedor Backend / Full Stack
+Focado em Node.js, Express, SQL, Prisma e desenvolvimento de APIs robustas.  
+Também possuo experiência com React para criar aplicações completas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- **Backend:** Node.js, Express, Prisma, SQL, JWT  
+- **Frontend:** React, Vite, JavaScript  
+- **Banco:** PostgreSQL, MySQL, Firebase  
+- **Outros:** Git, GitHub, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+Em construção — novos projetos chegando nas próximas semanas!  
+
+## 🎯 Objetivo
+Me especializar em Backend e contribuir para aplicações reais com qualidade, boas práticas e foco em desempenho.
+
+Seja bem-vindo(a) ao meu repositório!  
