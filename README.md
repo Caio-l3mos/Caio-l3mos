@@ -1,19 +1,18 @@
 # 👋 Olá! Eu sou o Caio Lemos
 
-## 👨‍💻 Desenvolvedor Backend / Full Stack
-Focado em Node.js, Express, SQL, Prisma e desenvolvimento de APIs robustas.  
-Também possuo experiência com React para criar aplicações completas.
+## 👨‍💻 Desenvolvedor Backend | Fintech & Sistemas Transacionais
+Desenvolvedor Backend focado em Node.js e na construção de APIs robustas, seguras e orientadas a regras de negócio.  
+Experiência prática com Express, TypeScript, SQL, Prisma, autenticação JWT e sistemas transacionais.
 
-## 🚀 Tecnologias e Ferramentas
-- **Backend:** Node.js, Express, Prisma, SQL, JWT  
-- **Frontend:** React, Vite, JavaScript  
-- **Banco:** PostgreSQL, MySQL, Firebase  
-- **Outros:** Git, GitHub, Linux  
+Possuo vivência em React para desenvolvimento Full Stack e experiência profissional como Técnico de TI em órgão federal, o que fortaleceu minha capacidade analítica, organização e resolução de problemas críticos.
 
-## 📂 Projetos
-Em construção — novos projetos chegando nas próximas semanas!  
+🎯 **Objetivo:** atuar como Desenvolvedor Backend ou Full Stack Júnior em empresas de tecnologia e fintechs, contribuindo para sistemas confiáveis, escaláveis e seguros.
 
-## 🎯 Objetivo
-Me especializar em Backend e contribuir para aplicações reais com qualidade, boas práticas e foco em desempenho.
+---
 
-Seja bem-vindo(a) ao meu repositório!  
+### 🛠️ Tecnologias
+- **Backend:** Node.js, TypeScript, Express, Prisma
+- **Banco de Dados:** PostgreSQL, MySQL
+- **Segurança:** JWT, Bcrypt, Validação de dados
+- **Testes:** Jest
+- **Outros:** Git, GitHub, Docker (básico), Swagger
