@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Caio Lemos
 
-## 👨‍💻 Desenvolvedor Backend | Fintech & Sistemas Transacionais
+## 👨‍💻 Desenvolvedor Backend 
 Desenvolvedor Backend focado em Node.js e na construção de APIs robustas, seguras e orientadas a regras de negócio.  
 Experiência prática com Express, TypeScript, SQL, Prisma, autenticação JWT e sistemas transacionais.
 
